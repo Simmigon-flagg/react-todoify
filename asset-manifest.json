@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/react-todoify/static/css/main.31d6cfe0.css",
-    "main.js": "/react-todoify/static/js/main.1ef62870.js",
+    "main.css": "/react-todoify/static/css/main.3baa94a8.css",
+    "main.js": "/react-todoify/static/js/main.3ca92233.js",
     "index.html": "/react-todoify/index.html",
-    "main.1ef62870.js.map": "/react-todoify/static/js/main.1ef62870.js.map"
+    "main.3baa94a8.css.map": "/react-todoify/static/css/main.3baa94a8.css.map",
+    "main.3ca92233.js.map": "/react-todoify/static/js/main.3ca92233.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.1ef62870.js"
+    "static/css/main.3baa94a8.css",
+    "static/js/main.3ca92233.js"
   ]
 }
