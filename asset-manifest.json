@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-todoify/static/css/main.31d6cfe0.css",
+    "main.js": "/react-todoify/static/js/main.1ef62870.js",
+    "index.html": "/react-todoify/index.html",
+    "main.1ef62870.js.map": "/react-todoify/static/js/main.1ef62870.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1ef62870.js"
+  ]
+}
